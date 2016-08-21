@@ -1,1 +1,1 @@
-# dotfires
+# dotfiles
